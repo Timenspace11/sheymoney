@@ -1,0 +1,63 @@
+.dotlottie{
+      height: 400px;
+}
+
+.register{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #91dede 30%, #6119b9 100%);
+    
+}
+
+.Register Input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(137, 137, 137, 0.696);
+    color: black;
+}
+
+.Register h1{
+    font-size: 25px;
+    color: white;
+}
+
+input:focus{ 
+    outline: none !important ;
+    box-shadow: none !important;
+} 
+
+ label, a{
+    color: rgba(255, 255, 255, 0.091);
+} 
+
+.Login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #30cfd0 50%, #330867 100%);
+}
+
+.Login Input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(137, 137, 137, 0.696);
+    color: black;
+}
+
+.Login h1{
+    font-size: 25px;
+    color: rgb(46, 4, 4);
+}
+
+input:focus{ 
+    outline: none !important ;
+    box-shadow: none !important;
+} 
+
+ label, a{
+    color: rgba(255, 255, 255, 0.091);
+} 
+
